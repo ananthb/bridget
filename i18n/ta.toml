@@ -6,6 +6,8 @@ other = "முந்தையது"
 other = "வெளியே செல்ல"
 [threshold]
 other = "எல்லை"
+[thresholdTitle]
+other = "அடுத்த படம் பதியேற்ற கணினி சுட்டி நகர் தூரம்"
 [404]
 other = "பக்கம் காணப்படவில்லை"
 [loading]
